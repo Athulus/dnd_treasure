@@ -4,7 +4,7 @@ a python script that will generate dnd 5th edition treasure for you
 
 based on the treasure tables in the dungeon master's guide
 
-files include:
+### files include:
 
 - treasure.py - the entry point for the command line app. does all the randomizing
 - treasure_tables.py - a bunch of list  and ditionary fields that replicate the treasure tables
